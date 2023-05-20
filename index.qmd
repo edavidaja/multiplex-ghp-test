@@ -1,0 +1,11 @@
+---
+title: "Multiplex-ghp-test"
+format: 
+    revealjs:
+        multiplex:
+            url: https://edavidaja-multiplex.deno.dev/
+---
+
+## quarto slides
+
+## with a custom multiplex server
