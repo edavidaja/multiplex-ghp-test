@@ -2,8 +2,7 @@
 title: "Multiplex-ghp-test"
 format: 
     revealjs:
-        multiplex:
-            url: https://edavidaja-multiplex.deno.dev/
+        multiplex: true
 ---
 
 ## quarto slides
